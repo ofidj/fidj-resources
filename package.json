@@ -1,0 +1,31 @@
+{
+  "name": "fidj-resources",
+  "version": "0.2.1",
+  "description": "Generate resources (icons, splash, marketing) for your app",
+  "main": "index.js",
+  "preferGlobal": true,
+  "directories": {
+    "bin": "./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ofidj/fidj-resources.git"
+  },
+  "keywords": [
+    "fidj",
+    "cordova",
+    "icon",
+    "splash",
+    "resize"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ofidj/fidj-resources",
+  "dependencies": {
+    "colors": "*",
+    "command-line-args": "*",
+    "fs-extra": "*",
+    "gm": "*",
+    "promise": "^8.0.1",
+    "underscore": "*"
+  }
+}
