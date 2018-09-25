@@ -62,4 +62,4 @@ MIT
 
 *Fork from (and thanks to) [https://github.com/helixhuang/cordova-resources](https://github.com/helixhuang/cordova-resources)*
 
-Please for it !
+Please fork it also !
